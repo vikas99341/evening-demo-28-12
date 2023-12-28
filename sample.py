@@ -1,4 +1,5 @@
 a=5
 b=7
-sum = a+b
+c=21
+sum = a+b+c
 print sum
